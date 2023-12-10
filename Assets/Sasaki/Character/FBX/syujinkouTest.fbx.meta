@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 7a7701ad947492345b3020c51e721838
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: syujinkouTest(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube8
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.036055624, y: 1.2556891, z: 0.050319903}
+      rotation: {x: -0.071445495, y: 0.8286947, z: 0.40972564, w: 0.37454706}
+      scale: {x: 0.3242616, y: 1.8818871, z: 1.8818871}
+    - name: pCube18
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.053548772, y: 1.0306001, z: 0.02358904}
+      rotation: {x: 0.37264597, y: 0.13817562, z: 0.9164685, w: -0.04613113}
+      scale: {x: 2.097748, y: 0.22572394, z: 0.20060393}
+    - name: polySurface31
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.028470192, y: 1.0511521, z: 0.010894034}
+      rotation: {x: 0, y: 0, z: 0.18615176, w: 0.982521}
+      scale: {x: 20.391958, y: 78.146126, z: 11.666151}
+    - name: pPlane41
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.061718915, y: 1.3822279, z: 0.029944703}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube11
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.032529294, y: 0.76056695, z: 0.045465577}
+      rotation: {x: 0, y: -0.16919906, z: -0, w: 0.9855819}
+      scale: {x: 0.24444443, y: 3.0517511, z: 0.7945132}
+    - name: polySurface42
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.46765497, y: 1.1916444, z: -0.02208103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0987396, y: 1.2842412, z: 1.2842412}
+    - name: pCube9
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.036055624, y: 1.2284703, z: 0.046880577}
+      rotation: {x: -0.15087485, y: 0.82258165, z: 0.3653927, w: 0.40875974}
+      scale: {x: 0.3242616, y: 1.8818871, z: 1.8818871}
+    - name: pCylinder3
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.052355394, y: 1.3372773, z: 0.041481316}
+      rotation: {x: 0.6593587, y: 0.19813243, z: -0.2292462, w: 0.6880668}
+      scale: {x: 0.40002042, y: 1, z: 0.28890365}
+    - name: polySurface16
+      parentName: syujinkouTest(Clone)
+      position: {x: -0, y: 2.842171e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface43
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.048377555, y: 0.08508428, z: -0.007945345}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface11
+      parentName: syujinkouTest(Clone)
+      position: {x: -0, y: 1.4085537, z: 0.014449905}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.1888889, z: 1}
+    - name: pCube19
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.057572935, y: 1.0197887, z: -0.008134089}
+      rotation: {x: -0.19774467, y: 0.37553483, z: 0.06319497, w: 0.9032591}
+      scale: {x: 1.789342, y: 0.19253854, z: 0.23955138}
+    - name: polySurface25
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.033381052, y: 0.7954081, z: -0.015945148}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube7
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.105935246, y: 0.34694034, z: -0.046371236}
+      rotation: {x: -0.3757127, y: 0.08505489, z: 0.08349432, w: 0.9190399}
+      scale: {x: 0.3242616, y: 1.8818871, z: 1.8818871}
+    - name: pCube15
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.14670153, y: 0.8745279, z: 0.03740979}
+      rotation: {x: 0.08905245, y: -0, z: -0, w: 0.99602693}
+      scale: {x: 2.888889, y: 0.31085306, z: 0.27625933}
+    - name: polySurface40
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.5181501, y: 1.1944119, z: -0.020305311}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlane50
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.14638893, y: 0.8749677, z: 0.038906906}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.5351834, y: 1, z: 0.9758912}
+    - name: pPlane15
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.103239104, y: 1.3942457, z: -0.035570312}
+      rotation: {x: 0.64819145, y: -0.25755662, z: 0.22346878, w: 0.6808628}
+      scale: {x: 3.221301, y: 4.4370594, z: 6.442602}
+    - name: pPlane52
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.09130165, y: 0.8261439, z: 0.07327833}
+      rotation: {x: 0.55386317, y: -0.2870766, z: 0.2336667, w: 0.7458033}
+      scale: {x: 1.853541, y: 1, z: 37.1455}
+    - name: polySurface6
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.04119706, y: 1.3634531, z: 0.045969732}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 19.858376, y: 19.858376, z: 19.858376}
+    - name: pCube10
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.07038104, y: 0.7599744, z: 0.05453515}
+      rotation: {x: 0, y: 0.079987526, z: -0, w: 0.9967959}
+      scale: {x: 1.7166666, y: 3.0897284, z: 0.23248577}
+    - name: pCylinder1
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.04077558, y: 1.3550175, z: 0.04544344}
+      rotation: {x: 0.6338224, y: -0.1243161, z: 0.18355407, w: 0.74102813}
+      scale: {x: 0.3581181, y: 0.15004668, z: 0.44867668}
+    - name: pSphere4
+      parentName: syujinkouTest(Clone)
+      position: {x: -0, y: 1.412893, z: -0.05869074}
+      rotation: {x: 0.09405656, y: -0, z: -0, w: 0.99556684}
+      scale: {x: 9.302051, y: 9.302051, z: 11.265817}
+    - name: polySurface32
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.0066437027, y: 0.9618283, z: 0.060824193}
+      rotation: {x: -0.0044459417, y: -0.023436997, z: 0.1862284, w: 0.98221684}
+      scale: {x: 20.355278, y: 78.130745, z: 11.689474}
+    - name: polySurface45
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.073870644, y: 0.76117384, z: -0.009534071}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 13.847127, y: 38.95046, z: 10.561368}
+    - name: pCube23
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.0969254, y: 0.70707893, z: 0.083917834}
+      rotation: {x: 0.23542352, y: -0.29931486, z: -0.6588564, w: 0.64876395}
+      scale: {x: 1.7166666, y: 2.1563914, z: 0.23248577}
+    - name: pCube21
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.06273677, y: 1.0177826, z: -0.020951444}
+      rotation: {x: 0.98711705, y: 0.13167678, z: 0.09067271, w: 0.0062959758}
+      scale: {x: 0.16795132, y: 2.0967777, z: 0.5458891}
+    - name: pCylinder5
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.03398575, y: 1.3406131, z: 0.05036782}
+      rotation: {x: 0.6889116, y: 0.1436889, z: -0.12550609, w: 0.6992872}
+      scale: {x: 0.3581181, y: 0.15004668, z: 0.36321783}
+    - name: polySurface29
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.001044946, y: 1.0913213, z: 0.015603247}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 15.872465, y: 45.66223, z: 12.106118}
+    - name: pPlane43
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.11389126, y: 1.3786596, z: -0.03216686}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 3.786144, y: 7.572288, z: 7.572288}
+    - name: polySurface46
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.14940803, y: 0.83874553, z: -0.0124470135}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 5.046591, y: 12.801108, z: 10.134211}
+    - name: pCube13
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.107372366, y: 0.760591, z: 0.024064535}
+      rotation: {x: 0.017367024, y: -0.37642342, z: 0.003874068, w: 0.92627686}
+      scale: {x: 0.24444443, y: 3.0517511, z: 0.7945132}
+    - name: FaceBack1
+      parentName: syujinkouTest(Clone)
+      position: {x: -0, y: 1.3598465, z: -0.015261297}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder2
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.028521117, y: 1.3394036, z: 0.052778214}
+      rotation: {x: 0.6995121, y: -0.13030714, z: 0.100624636, w: 0.6953974}
+      scale: {x: 0.40002042, y: 1, z: 0.28890365}
+    - name: pPlane14
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.067482576, y: 1.4598751, z: 0.044824928}
+      rotation: {x: 0.6733677, y: 0.21581481, z: 0.21581481, w: 0.6733677}
+      scale: {x: 1.9767194, y: 7.572288, z: 7.572288}
+    - name: pCube4
+      parentName: syujinkouTest(Clone)
+      position: {x: -0, y: 1.239143, z: -0.012450944}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 14.051489, y: 6.77594, z: 14.051489}
+    - name: pCube22
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.06093841, y: 1.0060233, z: 0.0330494}
+      rotation: {x: 0.58546084, y: 0.47523752, z: -0.39839208, w: 0.52217686}
+      scale: {x: 0.16795132, y: 2.0967777, z: 0.5458891}
+    - name: pPlane42
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.10879009, y: 1.4138235, z: -0.028391264}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 3.786144, y: 7.572288, z: 7.572288}
+    - name: pPlane44
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.11389126, y: 1.3786596, z: -0.03216686}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 3.786144, y: 7.572288, z: 7.572288}
+    - name: pPlane46
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.09472985, y: 1.4174081, z: -0.043496378}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.58978134, y: 6.117522, z: 2.646451}
+    - name: polySurface47
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.14565665, y: 0.80951965, z: 0.041760176}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 4.598005, y: 10.623122, z: 10.134211}
+    - name: polySurface8
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.039187875, y: 1.3278108, z: 0.048020855}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 26.416899, y: 26.416899, z: 26.416899}
+    - name: polySurface18
+      parentName: syujinkouTest(Clone)
+      position: {x: -0, y: 1.0168407, z: 0.010249496}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 14.431771, y: 41.517612, z: 11.007283}
+    - name: pCylinder4
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.044794567, y: 1.3429936, z: 0.045856338}
+      rotation: {x: 0.667427, y: -0.11786967, z: 0.2053792, w: 0.7060222}
+      scale: {x: 0.3581181, y: 0.15004668, z: 0.36321783}
+    - name: polySurface41
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.048377555, y: 0.08508428, z: -0.007945345}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface4
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.045166768, y: 1.3489807, z: 0.044217892}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 19.858376, y: 19.858376, z: 19.858376}
+    - name: pSphere5
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.46961173, y: 1.180033, z: -0.006799181}
+      rotation: {x: 0.9093051, y: -0, z: 0, w: 0.41613013}
+      scale: {x: 0.33753252, y: 0.2944492, z: 0.33753252}
+    - name: pSphere3
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.037004206, y: 1.3468508, z: 0.03752391}
+      rotation: {x: 0.6657496, y: -0.14920226, z: 0.18032743, w: 0.70851827}
+      scale: {x: 3.2964036, y: 1.3796505, z: 3.5558186}
+    - name: polySurface44
+      parentName: syujinkouTest(Clone)
+      position: {x: -0, y: 1.0168407, z: 0.010249496}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 14.431771, y: 41.517612, z: 11.007283}
+    - name: pCube17
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.04594304, y: 1.0182216, z: 0.03539412}
+      rotation: {x: -0.042823397, y: -0.5736738, z: 0.07200201, w: 0.81478846}
+      scale: {x: 0.16795132, y: 2.0967777, z: 0.5458891}
+    - name: polySurface49
+      parentName: syujinkouTest(Clone)
+      position: {x: 1.9274124e-16, y: 1.0305585, z: 0.013666158}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 15.431634, y: 44.39404, z: 11.769891}
+    - name: pPlane48
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.045864478, y: 1.1763439, z: -0.079541236}
+      rotation: {x: -0.6348604, y: -0.21773039, z: -0.022791563, w: 0.74096316}
+      scale: {x: 6.2774796, y: 6.2774796, z: 6.2774796}
+    - name: pCube6
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.10777933, y: 0.37980393, z: -0.043956198}
+      rotation: {x: -0.37437433, y: 0.09076463, z: 0.06949381, w: 0.92020446}
+      scale: {x: 0.3242616, y: 1.8818871, z: 1.8818871}
+    - name: polySurface30
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.06984079, y: 0.31727022, z: -0.03177917}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 15.872465, y: 45.66223, z: 12.106118}
+    - name: pPlane51
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.053858, y: 1.0881191, z: 0.02414909}
+      rotation: {x: 0.66321343, y: 0.24525088, z: -0.24525088, w: 0.66321343}
+      scale: {x: 1.3533714, y: 0.965087, z: 10.043441}
+    - name: pPlane6
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.056978643, y: 1.3304211, z: 0.038558386}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface15
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.0015961694, y: 1.4116789, z: 0.03392589}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface14
+      parentName: syujinkouTest(Clone)
+      position: {x: -0, y: 2.842171e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface48
+      parentName: syujinkouTest(Clone)
+      position: {x: 0.056447133, y: 1.017957, z: 0.0023988532}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 11.769891, y: 44.39404, z: 15.431634}
+    - name: pPlane45
+      parentName: syujinkouTest(Clone)
+      position: {x: -0.10079326, y: 1.3859673, z: -0.054050177}
+      rotation: {x: 0.07376712, y: 0.70819294, z: -0.70095986, w: 0.040945124}
+      scale: {x: 2.8264184, y: 4.4370594, z: 6.442602}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

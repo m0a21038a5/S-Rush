@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Earth
+  - Enemy
+  - PlayerArea
+  - PlayerHP
+  - Statue
+  - Beam
+  - Ground
+  - CheckPoint
+  - HP
+  - TrackingCamera
+  - Manager
+  - Undefined
+  - FallTrigger
+  - WaterTrigger
+  - BOSS
+  - Menu
+  - Target
+  - FadeOut
+  - LookAtPoint
+  - Camera
+  - CameraTarget
+  - DangerZone
+  - DestroyEnemy
+  - TextEnglish
+  - TextJapanese
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - RushEffect
+  - LineRushEffect
+  - 
+  - 
+  - Stage
+  - 
+  - Enemy
+  - 
+  - Boss
+  - DangerZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LineRushEffect
+    uniqueID: 4246856275
+    locked: 0
